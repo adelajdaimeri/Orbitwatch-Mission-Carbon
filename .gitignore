@@ -1,0 +1,5 @@
+orbitwatch.sqlite3*
+.report-backup-*/
+.data-analysis-backup-*/
+.mission-control-backup-*/
+__pycache__/
